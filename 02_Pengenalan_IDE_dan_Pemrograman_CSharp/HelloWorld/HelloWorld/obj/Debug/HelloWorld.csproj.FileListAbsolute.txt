@@ -1,0 +1,10 @@
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

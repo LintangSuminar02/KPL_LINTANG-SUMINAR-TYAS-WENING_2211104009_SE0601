@@ -1,0 +1,15 @@
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\bin\Debug\net8.0\tpmodul2_2211104009.exe
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\bin\Debug\net8.0\tpmodul2_2211104009.deps.json
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\bin\Debug\net8.0\tpmodul2_2211104009.runtimeconfig.json
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\bin\Debug\net8.0\tpmodul2_2211104009.dll
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\bin\Debug\net8.0\tpmodul2_2211104009.pdb
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.AssemblyInfoInputs.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.AssemblyInfo.cs
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.csproj.CoreCompileInputs.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.sourcelink.json
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.dll
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\refint\tpmodul2_2211104009.dll
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.pdb
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\tpmodul2_2211104009.genruntimeconfig.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\tpmodul2_2211104009\tpmodul2_2211104009\obj\Debug\net8.0\ref\tpmodul2_2211104009.dll
