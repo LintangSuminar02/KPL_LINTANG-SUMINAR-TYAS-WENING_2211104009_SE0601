@@ -14,31 +14,41 @@ namespace modul6_2211104009
 
         public SayaTubeUser(string username)
         {
-            if (username == null || username.Length > 100) throw new ArgumentException("Username tidak valid.");
+            if (string.IsNullOrEmpty(username) || username.Length > 100)
+                throw new ArgumentException("Username tidak valid.");
+
             this.Username = username;
             this.uploadedVideos = new List<SayaTubeVideo>();
+
             Random rnd = new Random();
             this.id = rnd.Next(10000, 99999);
         }
+
         public void AddVideo(SayaTubeVideo video)
         {
-            if (video == null || video.GetPlayCount() > int.MaxValue)
+            if (video == null || video.GetPlayCount() >= int.MaxValue)
                 throw new ArgumentException("Video tidak valid.");
-            this.uploadedVideos.Add(video);
+
+            uploadedVideos.Add(video);
         }
 
         public int GetTotalVideoPlayCount()
         {
             int total = 0;
             foreach (var video in uploadedVideos)
+            {
                 total += video.GetPlayCount();
+            }
             return total;
         }
 
+        // ✅ POSTCONDITION: Maksimal print 8 video
         public void PrintAllVideoPlaycount()
         {
             Console.WriteLine($"User: {Username}");
-            for (int i = 0; i < uploadedVideos.Count && i < 10; i++)
+
+            int jumlah = Math.Min(8, uploadedVideos.Count);
+            for (int i = 0; i < jumlah; i++)
             {
                 Console.WriteLine($"Video {i + 1} judul: {uploadedVideos[i].GetTitle()}");
             }
