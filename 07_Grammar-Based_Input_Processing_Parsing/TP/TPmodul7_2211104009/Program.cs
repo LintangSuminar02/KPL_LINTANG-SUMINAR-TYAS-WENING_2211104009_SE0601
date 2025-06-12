@@ -12,7 +12,7 @@ namespace TPmodul7_2211104009
         static void Main(string[] args)
         {
             DataMahasiswa2211104009.ReadJSON();
-            
+            KuliahMahasiswa.ReadJSON();
         }
     }
 }
