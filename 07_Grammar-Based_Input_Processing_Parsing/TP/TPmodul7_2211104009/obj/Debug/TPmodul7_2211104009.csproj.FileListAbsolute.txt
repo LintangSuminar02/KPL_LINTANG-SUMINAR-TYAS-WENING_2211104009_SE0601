@@ -1,0 +1,10 @@
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\bin\Debug\TPmodul7_2211104009.exe.config
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\bin\Debug\TPmodul7_2211104009.exe
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\bin\Debug\TPmodul7_2211104009.pdb
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\bin\Debug\Newtonsoft.Json.dll
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\bin\Debug\Newtonsoft.Json.xml
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\obj\Debug\TPmodul7_2211104009.csproj.AssemblyReference.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\obj\Debug\TPmodul7_2211104009.csproj.CoreCompileInputs.cache
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\obj\Debug\TPmodul7.CE0EF420.Up2Date
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\obj\Debug\TPmodul7_2211104009.exe
+D:\SEMESTER 6\Praktikum KPL\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\07_Grammar-Based_Input_Processing_Parsing\TP\TPmodul7_2211104009\obj\Debug\TPmodul7_2211104009.pdb

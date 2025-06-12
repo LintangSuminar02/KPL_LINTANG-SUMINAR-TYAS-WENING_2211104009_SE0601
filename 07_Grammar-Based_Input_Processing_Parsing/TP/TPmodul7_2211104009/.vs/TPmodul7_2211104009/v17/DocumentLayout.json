@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|d:\\semester 6\\praktikum kpl\\kpl_lintang-suminar-tyas-wening_2211104009_se0601\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2211104009\\kuliahmahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|solutionrelative:kuliahmahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|d:\\semester 6\\praktikum kpl\\kpl_lintang-suminar-tyas-wening_2211104009_se0601\\07_grammar-based_input_processing_parsing\\tp\\tpmodul7_2211104009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\datamahasiswa2211104009.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|solutionrelative:datamahasiswa2211104009.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_2_2211104009.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp7_2_2211104009.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_1_2211104009.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6892A31-9C3F-4351-918C-2CE9696844EF}|TPmodul7_2211104009.csproj|solutionrelative:tp7_1_2211104009.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KuliahMahasiswa.cs",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\KuliahMahasiswa.cs",
+              "RelativeDocumentMoniker": "KuliahMahasiswa.cs",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\KuliahMahasiswa.cs",
+              "RelativeToolTip": "KuliahMahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:01:17.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tp7_2_2211104009.json",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_2_2211104009.json",
+              "RelativeDocumentMoniker": "tp7_2_2211104009.json",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_2_2211104009.json",
+              "RelativeToolTip": "tp7_2_2211104009.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T12:58:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:09:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataMahasiswa2211104009.cs",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\DataMahasiswa2211104009.cs",
+              "RelativeDocumentMoniker": "DataMahasiswa2211104009.cs",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\DataMahasiswa2211104009.cs",
+              "RelativeToolTip": "DataMahasiswa2211104009.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:46:50.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tp7_1_2211104009.json",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_1_2211104009.json",
+              "RelativeDocumentMoniker": "tp7_1_2211104009.json",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\07_Grammar-Based_Input_Processing_Parsing\\TP\\TPmodul7_2211104009\\tp7_1_2211104009.json",
+              "RelativeToolTip": "tp7_1_2211104009.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T12:08:03.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
