@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|d:\\semester 6\\praktikum kpl\\kpl_lintang-suminar-tyas-wening_2211104009_se0601\\09_api_design_dan_construction_using_swagger\\jurnal\\modul9_2211104009\\controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|solutionrelative:controller\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|d:\\semester 6\\praktikum kpl\\kpl_lintang-suminar-tyas-wening_2211104009_se0601\\09_api_design_dan_construction_using_swagger\\jurnal\\modul9_2211104009\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|d:\\semester 6\\praktikum kpl\\kpl_lintang-suminar-tyas-wening_2211104009_se0601\\09_api_design_dan_construction_using_swagger\\jurnal\\modul9_2211104009\\modul9_2211104009.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C428A396-911B-4A25-ADEF-ABF112A10C2E}|modul9_2211104009.csproj|solutionrelative:modul9_2211104009.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\Controller\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controller\\MovieController.cs",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\Controller\\MovieController.cs",
+              "RelativeToolTip": "Controller\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:01:01.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:56:32.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modul9_2211104009",
+              "DocumentMoniker": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\modul9_2211104009.csproj",
+              "RelativeDocumentMoniker": "modul9_2211104009.csproj",
+              "ToolTip": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\modul9_2211104009.csproj",
+              "RelativeToolTip": "modul9_2211104009.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T19:55:25.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

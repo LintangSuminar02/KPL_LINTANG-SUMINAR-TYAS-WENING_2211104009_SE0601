@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRmR2rgxLjg=",
+  "success": true,
+  "projectFilePath": "D:\\SEMESTER 6\\Praktikum KPL\\KPL_LINTANG-SUMINAR-TYAS-WENING_2211104009_SE0601\\09_API_Design_dan_Construction_Using_Swagger\\JURNAL\\modul9_2211104009\\modul9_2211104009.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Lintang Suminar T.W\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
