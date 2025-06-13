@@ -1,0 +1,33 @@
+{
+   "members": [
+      {
+         "firstName": "Lintang Suminar",
+         "lastName": "Tyas Wening",
+         "gender": "Female",
+         "age": 21,
+         "nim": "2211104009"
+      },
+     {
+       "firstName": "Aufa",
+       "lastName": "Muhammad Isyafa'lana",
+       "gender": "Male",
+       "age": 21,
+       "nim": "2211104015"
+     },
+     {
+       "firstName": "Rezky",
+       "lastName": "Pratiwi",
+       "gender": "Female",
+       "age": 21,
+       "nim": "2211104029"
+     },
+     {
+       "firstName": "Doanta Aloycius",
+       "lastName": "Ginting",
+       "gender": "Male",
+       "age": 22,
+       "nim": "21104009"
+     }
+     
+   ]
+ }

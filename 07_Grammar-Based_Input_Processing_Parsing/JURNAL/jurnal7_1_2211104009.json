@@ -1,0 +1,23 @@
+{
+   "firstName": "Lintang Suminar",
+   "lastName": "Tyas Wening",
+   "gender": "female",
+   "age": 21,
+   "address": {
+       "streetAddress": "JL D.I Panjaitan",
+       "city": "Purwokerto",
+       "state": "Central Java"
+   },
+   "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2XX",
+      "name": "Kecerdasan Buatan"
+    }
+  ]
+   
+   
+}
